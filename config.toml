@@ -24,7 +24,7 @@ description = "Agence de Voyage Taiba"
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = false
 
 [taxonomies]
 category = "Categories"

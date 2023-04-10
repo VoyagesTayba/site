@@ -1,5 +1,5 @@
-baseURL = "https://tailbliss.netlify.app/"
-title = "TailBliss"
+baseURL = "https://voyagetaiba.com/"
+title = "Voyage Taiba"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -13,14 +13,13 @@ darkmode_js = ["assets/js/darkmode.js"]
 enableInlineShortcodes = true
 
 [params]
-author = "Nusser Studios"
-authorimage = "../assets/images/global/author.webp"
-github = "https://github.com/nusserstudios"
-facebook = "https://facebook.com/nusserstudios"
-og_image = "/images/tailbliss-cover.png"
-sitename = "TailBliss"
-twitter = "@nusserstudios"
-description = "TailBliss is Hugo Starter"
+author = "Youssef Karroum"
+authorimage = "../assets/images/global/logo.png"
+facebook = "https://facebook.com/voyagetaiba"
+og_image = "../assets/images/global/logo.png"
+sitename = "Voyage Taiba"
+twitter = "@voyagetaiba"
+description = "Agence de Voyage Taiba"
 
 [markup]
 [markup.goldmark]
@@ -55,6 +54,6 @@ disable = false
 privacyEnhanced = true
 
 [module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.104.0"
+[module.hugoVersion]
+extended = true
+min = "0.104.0"

@@ -1,5 +1,5 @@
-baseURL = "https://voyagetaiba.com/"
-title = "Voyage Taiba"
+baseURL = "https://voyagestayba.com/"
+title = "Voyages Tayba"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -17,9 +17,9 @@ author = "Youssef Karroum"
 authorimage = "../assets/images/global/logo.png"
 facebook = "https://facebook.com/voyagetaiba"
 og_image = "../assets/images/global/logo.png"
-sitename = "Voyage Taiba"
-twitter = "@voyagetaiba"
-description = "Agence de Voyage Taiba"
+sitename = "Voyages Tayba"
+twitter = "@voyagestayba"
+description = "Voyages Tayba"
 
 [markup]
 [markup.goldmark]

@@ -48,6 +48,10 @@ module.exports = {
                     800: '#1E2024',
                     900: '#050506'
                 },
+                'custom': {
+                    DEFAULT: '#EEBE00',
+                    primary: '#EEBE00',
+                },
                 // To change these, use https://www.tailwindshades.com/ with https://tailwindcss.com/docs/customizing-colors or create your own custom colors.
             },
             lineHeight: {

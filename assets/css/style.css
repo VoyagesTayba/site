@@ -2681,6 +2681,11 @@ video {
   border-color: transparent;
 }
 
+.border-custom-primary {
+  --tw-border-opacity: 1;
+  border-color: rgb(238 190 0 / var(--tw-border-opacity));
+}
+
 .border-b-stone-200\/10 {
   border-bottom-color: rgb(231 229 228 / 0.1);
 }
@@ -2727,6 +2732,11 @@ video {
 .bg-zinc-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(244 244 245 / var(--tw-bg-opacity));
+}
+
+.bg-custom-primary {
+  --tw-bg-opacity: 1;
+  background-color: rgb(238 190 0 / var(--tw-bg-opacity));
 }
 
 .bg-center {

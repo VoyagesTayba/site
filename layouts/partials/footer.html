@@ -3,7 +3,7 @@
 <script src="{{ $alpine.RelPermalink }}" defer></script>
 {{ $js := resources.Get "js/darkmode.js" | js.Build }}
 <script src="{{ $js.RelPermalink }}" defer></script>
-<footer class="bg-gray-900">
+<footer class="bg-secondary-800/40 dark:bg-primary-800">
     <div class="max-w-md px-4 py-12 mx-auto overflow-hidden sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
         <nav class="flex flex-wrap justify-center -mx-5 -my-2" aria-label="Footer">
             <div class="px-5 py-2">

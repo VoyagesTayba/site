@@ -1,11 +1,11 @@
 ---
-title: Omra
-date: 2023-04-15T00:00:00+00:00
+title: Istanbul
+date: 2002-04-12T01:00:00+00:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/omra.jpg
-summary: Voyage Guidé Omra
-description: Voyage Guidé Omra, forfait tout inclus
+featured_image: ../assets/images/featured/istanbul.jpg
+summary: Forfait Voyage Istanbul (Combiné avec Omra)
+description: Forfait Voyage Istanbul (Combiné avec Omra)
 categories: Blog
 tags: Blog
 ---
@@ -18,4 +18,3 @@ __Advertisement :smile:__
   i18n with plurals support and easy syntax.
 
 You will like those projects!
-

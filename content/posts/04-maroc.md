@@ -1,11 +1,11 @@
 ---
-title: Quds
-date: 2023-04-06T02:00:00+00:00
+title: Maroc
+date: 2003-04-10T02:00:00+00:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/quds.jpg
-summary: Forfait Voyage Quds (forfait avec Omra)
-description: Forfait Voyage Quds (forfait avec Omra)
+featured_image: ../assets/images/featured/maroc.jpg
+summary: Forfait Voyage Maroc, Circuit des villes Impériales combiné avec Omra
+description: Forfait Voyage Istanbul (Combiné avec Omra)
 categories: Blog
 tags: Blog
 ---

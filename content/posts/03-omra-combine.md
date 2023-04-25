@@ -1,11 +1,11 @@
 ---
-title: Istanbul
-date: 2023-04-12T01:00:00+00:00
+title: Omra Combiné
+date: 2004-04-15T00:00:00+00:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/istanbul.jpg
-summary: Forfait Voyage Istanbul (Combiné avec Omra)
-description: Forfait Voyage Istanbul (Combiné avec Omra)
+featured_image: ../assets/images/featured/omra-combine.jpg
+summary: Voyage Guidé Omra avec Escales. Maroc, Turquie, Espagne
+description: Voyage Guidé Omra, forfait tout inclus
 categories: Blog
 tags: Blog
 ---
@@ -18,3 +18,4 @@ __Advertisement :smile:__
   i18n with plurals support and easy syntax.
 
 You will like those projects!
+

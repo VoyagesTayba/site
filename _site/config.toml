@@ -1,0 +1,59 @@
+baseURL = "https://voyagestayba.com/"
+title = "Voyages Tayba"
+
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+paginate = 9
+darkmode_js = ["assets/js/darkmode.js"]
+enableInlineShortcodes = true
+
+[params]
+author = "Youssef Karroum"
+authorimage = "../assets/images/global/logo.png"
+facebook = "https://facebook.com/voyagetaiba"
+og_image = "../assets/images/global/logo.png"
+sitename = "Voyages Tayba"
+twitter = "@voyagestayba"
+description = "Voyages Tayba"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = false
+
+[taxonomies]
+category = "Categories"
+tag = "Tags"
+
+[privacy]
+[privacy.disqus]
+disable = false
+[privacy.googleAnalytics]
+anonymizeIP = true
+disable = false
+respectDoNotTrack = false
+useSessionStorage = false
+[privacy.instagram]
+disable = false
+simple = false
+[privacy.twitter]
+disable = false
+enableDNT = false
+simple = false
+[privacy.vimeo]
+disable = false
+enableDNT = false
+simple = false
+[privacy.youtube]
+disable = false
+privacyEnhanced = true
+
+[module]
+[module.hugoVersion]
+extended = true
+min = "0.104.0"

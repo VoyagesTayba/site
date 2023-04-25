@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 132.99px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: BebasNeue-Regular, 'Bebas Neue';
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #010101;
+      }
+
+      .cls-2 {
+        font-size: 132.99px;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <text class="cls-2" transform="translate(154.38 462.02) rotate(-72.46)"><tspan x="0" y="0">V</tspan></text>
+    <text class="cls-2" transform="translate(181.14 386.98) rotate(-60.4)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-2" transform="translate(223.09 318.9) rotate(-48.48)"><tspan x="0" y="0">Y</tspan></text>
+    <text class="cls-2" transform="translate(274.76 263.91) rotate(-37.19)"><tspan x="0" y="0">A</tspan></text>
+    <text class="cls-2" transform="translate(342.07 216.76) rotate(-25.11)"><tspan x="0" y="0">G</tspan></text>
+    <text class="cls-2" transform="translate(416.81 185.24) rotate(-13.32)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-2" transform="translate(493 170.23) rotate(-1.59)"><tspan x="0" y="0">s</tspan></text>
+    <text class="cls-2" transform="translate(571.54 171.69) rotate(8.05)"><tspan x="0" y="0"> </tspan></text>
+    <text class="cls-2" transform="translate(621.35 180.04) rotate(17.47)"><tspan x="0" y="0">T</tspan></text>
+    <text class="cls-2" transform="translate(688.92 203.38) rotate(28.5)"><tspan x="0" y="0">A</tspan></text>
+    <text class="cls-2" transform="translate(754.89 241.86) rotate(39.87)"><tspan x="0" y="0">Y</tspan></text>
+    <text class="cls-2" transform="translate(815.47 296.44) rotate(52.1)"><tspan x="0" y="0">B</tspan></text>
+    <text class="cls-2" transform="translate(863.85 363.69) rotate(64.35)"><tspan x="0" y="0">A</tspan></text>
+    <g>
+      <text class="cls-1" transform="translate(879.18 714.03) rotate(118.09)"><tspan x="0" y="0">T</tspan></text>
+      <text class="cls-1" transform="translate(843.8 776.14) rotate(129.11)"><tspan x="0" y="0">A</tspan></text>
+      <text class="cls-1" transform="translate(793.82 833.9) rotate(140.49)"><tspan x="0" y="0">Y</tspan></text>
+      <text class="cls-1" transform="translate(729.03 883.37) rotate(152.72)"><tspan x="0" y="0">B</tspan></text>
+      <text class="cls-1" transform="translate(653.98 918.54) rotate(164.97)"><tspan x="0" y="0">A</tspan></text>
+      <text class="cls-1" transform="translate(573.51 936.13) rotate(174.84)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-1" transform="translate(523.11 939.37) rotate(-175.58)"><tspan x="0" y="0">T</tspan></text>
+      <text class="cls-1" transform="translate(446.05 930.61) rotate(-163.57)"><tspan x="0" y="0">R</tspan></text>
+      <text class="cls-1" transform="translate(367.65 904.23) rotate(-151.4)"><tspan x="0" y="0">A</tspan></text>
+      <text class="cls-1" transform="translate(299.83 864.2) rotate(-139.84)"><tspan x="0" y="0">V</tspan></text>
+      <text class="cls-1" transform="translate(240.83 810.3) rotate(-128.05)"><tspan x="0" y="0">E</tspan></text>
+      <text class="cls-1" transform="translate(195.53 747.53) rotate(-116.72)"><tspan x="0" y="0">L</tspan></text>
+    </g>
+    <path class="cls-4" d="M694.21,495.18c.98,5.31,1.58,10.76,1.76,16.31,.04,1.23,.07,2.47,.07,3.71v215.89c-47.65,0-88.22-30.36-103.4-72.8l-13.13,21.05c-.67,1.06-1.34,2.11-2.04,3.12-21.29,31.7-56.48,48.92-92.32,48.56h-.78c-20.58,.21-40.93-5.37-58.57-16.17l58.58-91.69,.38,.6,32.29-51.74,32.2-50.41,16.31-25.51h-101.44c0-59.39,47.16-107.78,106.08-109.73,1.24-.06,2.48-.07,3.74-.07h215.88c0,55.82-41.67,101.91-95.61,108.88Z"/>
+    <path class="cls-4" d="M481.59,620.37l-58.58,91.69c-13.1-7.99-24.69-18.88-33.77-32.39-.68-1.02-1.35-2.06-2.02-3.12l-114.3-183.15c50.4-31.45,116.41-17.05,149.25,31.9,.7,1.02,1.37,2.06,2.04,3.12l57.38,91.94Z"/>
+  </g>
+  <g id="Layer_14" data-name="Layer 14">
+    <path class="cls-3" d="M894.18,619.04c-1.36-6.69-2.62-12.96-3.91-19.21-1.17-5.66-2.48-11.29-3.48-16.98-.26-1.5,0-3.37,.71-4.71,16.9-31.92,33.89-63.79,50.86-95.67,2.09-3.92,4.17-7.85,6.5-12.24,.64,1.1,1.12,1.86,1.55,2.66,18.63,35.03,37.27,70.05,55.82,105.12,.75,1.41,1.05,3.39,.77,4.97-2.04,11.55-4.28,23.07-6.47,34.59-.08,.43-.29,.83-.55,1.53-1.35-.87-2.61-1.64-3.82-2.46-13.12-8.89-26.25-17.75-39.3-26.74-.98-.68-1.8-2.17-1.95-3.37-1.62-12.7-3.1-25.43-4.61-38.15-.33-2.79-.67-5.57-1.61-8.39-.3,2.23-.66,4.45-.9,6.69-1.47,13.44-2.9,26.89-4.39,40.32-.08,.7-.45,1.61-.99,1.98-14.55,9.94-29.13,19.82-44.21,30.04Z"/>
+    <path class="cls-3" d="M154.79,520.04c1.36,6.69,2.62,12.96,3.91,19.21,1.17,5.66,2.48,11.29,3.48,16.98,.26,1.5,0,3.37-.71,4.71-16.9,31.92-33.89,63.79-50.86,95.67-2.09,3.92-4.17,7.85-6.5,12.24-.64-1.1-1.12-1.86-1.55-2.66-18.63-35.03-37.27-70.05-55.82-105.12-.75-1.41-1.05-3.39-.77-4.97,2.04-11.55,4.28-23.07,6.47-34.59,.08-.43,.29-.83,.55-1.53,1.35,.87,2.61,1.64,3.82,2.46,13.12,8.89,26.25,17.75,39.3,26.74,.98,.68,1.8,2.17,1.95,3.37,1.62,12.7,3.1,25.43,4.61,38.15,.33,2.79,.67,5.57,1.61,8.39,.3-2.23,.66-4.45,.9-6.69,1.47-13.44,2.9-26.89,4.39-40.32,.08-.7,.45-1.61,.99-1.98,14.55-9.94,29.13-19.82,44.21-30.04Z"/>
+  </g>
+</svg>

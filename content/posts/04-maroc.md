@@ -10,11 +10,38 @@ categories: Blog
 tags: Blog
 ---
 
-__Advertisement :smile:__
+- 9 JOURS / 7 NUITS
+- 20 REPAS INCLUS
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
+# Départ et Tarifs
 
-You will like those projects!
+À Venir
+
+# Itinéraire
+
+## Jour 1: Départ
+
+À partir de l'Aéorport Pierre Eliott-Trudeau avec Royal Air Maroc nous partons pour notre destination: Casablanca
+
+## Jour 2: Casablanca
+
+Arrivée à Casablanca, nous prenons direction l'Hotel. Déjeuner et visite de l'extérieur de la mosquée Hassan II
+
+## Jour 3: Casablanca, Rabat, Volubilis, Fès
+
+Départ sur Rabat, arrivée et visite de la Tour Hassan
+
+## Jour 4: Fès
+
+TBD
+
+## Jour 5: Fès, ...
+
+## Jour 6: 
+
+## Jour 7: Marrakech
+Visite guidée de la vielle ville de Marrakech avec aperçu de repères historiques, conçu comme premier point de contact.
+
+## Jour 8: Marrakech
+
+## Jour 9: Marrakech, Casablanc, Montréal

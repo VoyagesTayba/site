@@ -10,11 +10,12 @@ categories: Blog
 tags: Blog
 ---
 
-__Advertisement :smile:__
+## Jour 1: Montréal - Istanbul
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
+Rendez-vous à l'aéroport
 
-You will like those projects!
+## Jour 2: Istanbul
+## Jour 3: Istanbul
+## Jour 4: Istanbul
+## Jour 5, 6 et 7: Istanbul
+## Jour 8: Istanbul - Montréal

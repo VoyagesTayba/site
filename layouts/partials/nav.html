@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <div class="top-0 z-50 w-full text-gray-200 bg-gray-900 border-2 border-gray-900 md:sticky border-b-stone-200/10">
     <div x-data="{ open: false }"
         class="flex flex-col max-w-full px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
@@ -12,8 +14,10 @@
                     alt="{{ .Site.Title }} Logo" />
                 <div
                     class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">
-                    {{ .Site.Title }}</div>
+                    {{ .Site.Title }} </div>
+		<a style="margin-left:1em;top:50%;left:50%;" href="tel:514-557-8723"><i style="margin-right:1em;" class="fa fa-phone"></i>514-557-8723</a>
             </a>
+	    
             <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open"
                 role="navigation" aria-expanded="false" aria-label="Main" aria-controls="menuItems">
                 <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">

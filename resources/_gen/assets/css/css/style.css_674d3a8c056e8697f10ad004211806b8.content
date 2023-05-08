@@ -2522,10 +2522,6 @@ video {
   max-width: none;
 }
 
-.max-w-screen-md {
-  max-width: 768px;
-}
-
 .max-w-screen-sm {
   max-width: 640px;
 }
@@ -3998,10 +3994,6 @@ EmojiSymbols;
   .lg\:py-16 {
     padding-top: 4rem;
     padding-bottom: 4rem;
-  }
-
-  .lg\:pb-24 {
-    padding-bottom: 6rem;
   }
 
   .lg\:pt-12 {

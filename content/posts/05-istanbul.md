@@ -4,8 +4,8 @@ date: 2002-04-12T01:00:00+00:00
 draft: false
 language: en
 featured_image: ../assets/images/featured/istanbul.jpg
-summary: Forfait Voyage Istanbul (Combiné avec Omra)
-description: Forfait Voyage Istanbul (Combiné avec Omra)
+summary: Forfait Voyage Istanbul
+description: Forfait Voyage Istanbul
 categories: Blog
 tags: Blog
 ---

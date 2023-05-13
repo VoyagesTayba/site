@@ -4,8 +4,8 @@ date: 2001-04-09T03:00:00+00:00
 draft: false
 language: en
 featured_image: ../assets/images/featured/espagne.jpg
-summary: Forfait Espagne (Combiné avec Omra)
-description: Forfait Espagne (Combiné avec Omra)
+summary: Forfait Espagne
+description: Forfait Espagne
 categories: Blog
 tags: Blog
 ---

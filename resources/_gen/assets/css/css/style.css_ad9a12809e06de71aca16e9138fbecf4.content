@@ -2703,7 +2703,6 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-
 .bg-CUSTOM_GREEN_BLUE-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(68 198 227 / var(--tw-bg-opacity));
@@ -2718,7 +2717,6 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(10 56 66 / var(--tw-bg-opacity));
 }
-
 
 .bg-center {
   background-position: center;
@@ -2966,7 +2964,6 @@ video {
   color: rgb(224 158 0 / var(--tw-text-opacity));
 }
 
-
 .text-gray-100 {
   --tw-text-opacity: 1;
   color: rgb(243 244 246 / var(--tw-text-opacity));
@@ -3027,9 +3024,9 @@ video {
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
-.text-CUSTOM_YELLOW-600 {
+.text-CUSTOM_GREY-700 {
   --tw-text-opacity: 1;
-  color: rgb(224 158 0 / var(--tw-text-opacity));
+  color: rgb(135 135 135 / var(--tw-text-opacity));
 }
 
 .text-opacity-40 {
@@ -3628,26 +3625,6 @@ EmojiSymbols;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.hover\:text-CUSTOM_YELLOW-300:hover {
-  --tw-text-opacity: 1;
-  color: rgb(255 211 107 / var(--tw-text-opacity));
-}
-
-.hover\:text-CUSTOM_YELLOW-400:hover {
-  --tw-text-opacity: 1;
-  color: rgb(255 199 66 / var(--tw-text-opacity));
-}
-
-.hover\:text-CUSTOM_YELLOW-600:hover {
-  --tw-text-opacity: 1;
-  color: rgb(224 158 0 / var(--tw-text-opacity));
-}
-
-.hover\:text-CUSTOM_YELLOW-700:hover {
-  --tw-text-opacity: 1;
-  color: rgb(168 118 0 / var(--tw-text-opacity));
-}
-
 .hover\:underline:hover {
   text-decoration-line: underline;
 }
@@ -3778,16 +3755,6 @@ EmojiSymbols;
 :is(.dark .dark\:text-zinc-200) {
   --tw-text-opacity: 1;
   color: rgb(228 228 231 / var(--tw-text-opacity));
-}
-
-:is(.dark .dark\:text-CUSTOM_YELLOW-200) {
-  --tw-text-opacity: 1;
-  color: rgb(255 223 147 / var(--tw-text-opacity));
-}
-
-:is(.dark .dark\:text-CUSTOM_YELLOW-500) {
-  --tw-text-opacity: 1;
-  color: rgb(255 187 25 / var(--tw-text-opacity));
 }
 
 :is(.dark .dark\:shadow-neutral-800\/40) {

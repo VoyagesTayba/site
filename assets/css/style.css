@@ -2703,6 +2703,22 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+
+.bg-CUSTOM_GREEN_BLUE-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(68 198 227 / var(--tw-bg-opacity));
+}
+
+.bg-CUSTOM_GREEN_BLUE-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(28 157 186 / var(--tw-bg-opacity));
+}
+
+.bg-CUSTOM_GREEN_BLUE-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(10 56 66 / var(--tw-bg-opacity));
+}
+
 .bg-center {
   background-position: center;
 }
@@ -2944,6 +2960,12 @@ video {
   color: rgb(255 187 25 / var(--tw-text-opacity));
 }
 
+
+.text-CUSTOM_YELLOW-600 {
+  --tw-text-opacity: 1;
+  color: rgb(224 158 0 / var(--tw-text-opacity));
+}
+
 .text-gray-100 {
   --tw-text-opacity: 1;
   color: rgb(243 244 246 / var(--tw-text-opacity));
@@ -2989,9 +3011,23 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.text-CUSTOM_GREY-500 {
+  --tw-text-opacity: 1;
+  color: rgb(191 191 191 / var(--tw-text-opacity));
+}
+
+.text-CUSTOM_GREY-600 {
+  --tw-text-opacity: 1;
+  color: rgb(163 163 163 / var(--tw-text-opacity));
+}
+
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
 .text-CUSTOM_YELLOW-600 {
   --tw-text-opacity: 1;
   color: rgb(224 158 0 / var(--tw-text-opacity));
+
 }
 
 .text-opacity-40 {
@@ -3563,6 +3599,11 @@ EmojiSymbols;
 .hover\:bg-primary-800:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(14 17 158 / var(--tw-bg-opacity));
+}
+
+.hover\:text-CUSTOM_YELLOW-700:hover {
+  --tw-text-opacity: 1;
+  color: rgb(168 118 0 / var(--tw-text-opacity));
 }
 
 .hover\:text-black:hover {
